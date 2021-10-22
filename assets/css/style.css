@@ -11,6 +11,17 @@ body {
     color: #39a6b2;
 }
 
+
+/* Text-Align Editing */
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+
 /* Apply style to <header> */
 header {
     padding: 20px 35px;
@@ -52,7 +63,7 @@ ul li {
 }
 
 
-/* Section editing */
+/* Section Editing */
 section {
     padding: 60px;
 }
@@ -108,6 +119,7 @@ section {
     font-size: 16px;
 }
 
+
 /* What We Do Styling */
 .intro {
     text-align: center;
@@ -120,6 +132,7 @@ section {
     font-size: 20px;
     margin: 0 auto;
 }
+
 
 /* What You Do Styling */
 .steps {
@@ -228,16 +241,6 @@ section {
 }
 
 
-/* Text Editing */
-.text-left {
-    text-align: left;
-}
-
-.text-right {
-    text-align: right;
-}
-
-
 /* Reach Out Section Styling */
 .contact {
     text-align: center;
@@ -277,6 +280,7 @@ section {
 .contact-info a {
     color: #fce138;
 }
+
 
 /* Apply style to Footer */
 footer {
